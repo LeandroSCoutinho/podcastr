@@ -5,7 +5,7 @@ Este projeto foi criado com base na NLW#5, um workshop online organizado pela Ro
 
 ## Prévia
 
-![podcastr]()
+![podcastr](https://github.com/LeandroSCoutinho/podcastr/blob/main/public/desktop-podcastr.gif)
 
 ## 🎶 Sobre
 O Podcastr é uma aplicação para ouvir podcasts, com funcionalidades como reprodução, pausa e seleção de episódios. Ele foi criado utilizando o framework Next.js, que permite criar páginas com renderização do lado do servidor (SSR) ou estáticas (SSG), e foi escrito em TypeScript.  
